@@ -1,2 +1,3 @@
 # Demo
-Author - Jay Joshi
+
+Author - Jay (Joshi)
